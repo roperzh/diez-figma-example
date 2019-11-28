@@ -15,8 +15,6 @@ The `example-codebases` directory contains example projects connected to your Di
 |       ├── index.ts
 |       └── DesignLanguage.ts
 └── example-codebases
-    ├── android
-    ├── ios
     └── web
 ```
 
